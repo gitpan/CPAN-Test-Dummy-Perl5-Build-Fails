@@ -1,6 +1,7 @@
-Changes
-lib/CPAN/Test/Dummy/Perl5/Build/Fails.pm
 Build.PL
+Changes
 MANIFEST
-t/00_load.t
 META.yml
+README
+lib/CPAN/Test/Dummy/Perl5/Build/Fails.pm
+t/00_load.t
